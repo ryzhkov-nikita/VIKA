@@ -1,0 +1,14 @@
+C:\Users\Nikitosik\source\repos\lab13\bin\Debug\net7.0\lab13.exe
+C:\Users\Nikitosik\source\repos\lab13\bin\Debug\net7.0\lab13.deps.json
+C:\Users\Nikitosik\source\repos\lab13\bin\Debug\net7.0\lab13.runtimeconfig.json
+C:\Users\Nikitosik\source\repos\lab13\bin\Debug\net7.0\lab13.dll
+C:\Users\Nikitosik\source\repos\lab13\bin\Debug\net7.0\lab13.pdb
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.AssemblyInfoInputs.cache
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.AssemblyInfo.cs
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.dll
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\refint\lab13.dll
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.pdb
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\lab13.genruntimeconfig.cache
+C:\Users\Nikitosik\source\repos\lab13\obj\Debug\net7.0\ref\lab13.dll
